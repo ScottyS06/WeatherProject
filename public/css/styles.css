@@ -42,3 +42,9 @@ body {
 .radio-desc {
   font-size: 1.5rem;
 }
+
+.home-btn {
+  margin: 0 auto;
+  display: block;
+  color: #fff;
+}
